@@ -9,5 +9,6 @@
   "compatibleCoreVersion": "12",
   "scripts": [
     "scripts/luck-roll.js"
-  ]
+  ],
+  "download": "https://github.com/PionekPL/custom-luck-system/archive/refs/heads/main.zip"
 }
